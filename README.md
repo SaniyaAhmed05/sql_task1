@@ -1,2 +1,8 @@
-# sql_task1
-This repository features SQL tasks and exercises from my internship, showcasing hands-on work with queries, joins, aggregations, subqueries, and real datasets. It highlights my practical SQL skills and problem-solving approach with structured data.
+# Library Management System Database
+Task: Design a relational database schema and normalize it up to 3NF.
+Outcome:
+* ER Diagram: Visual representation of entities and relationships.
+
+* SQL Script: Table creation scripts for the normalized schema.
+
+* Normalization Report: Documentation of the 3NF normalization process.
