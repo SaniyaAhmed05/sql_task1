@@ -18,6 +18,6 @@ Outcome:
 
 ## ER Diagram
 
-![Library System ER Diagram](images/er_diagram.png)
+![Library System ER Diagram](Images/er_diagram.png)
 ## SQL Scripts
 All SQL exercises are in the [exercises](sql_script/task1) folder.
