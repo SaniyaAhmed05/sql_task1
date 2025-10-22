@@ -15,3 +15,8 @@ Outcome:
 * SQL Script: Table creation scripts for the normalized schema.
 
 * Normalization Report: Documentation of the 3NF normalization process.
+
+## ER Diagram
+![Library System ER Diagram](images/er_diagram.png)
+## SQL Scripts
+All SQL exercises are in the [exercises](sql_script/task1) folder.
