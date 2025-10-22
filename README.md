@@ -1,5 +1,6 @@
 # Library Management System Database
 Task: Design a relational database schema and normalize it up to 3NF.
+
 Outcome:
 * ER Diagram: Visual representation of entities and relationships.
 
